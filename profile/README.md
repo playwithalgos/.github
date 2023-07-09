@@ -7,3 +7,5 @@ This organisation contains several repositories in order to play with algorithms
 * [Fibonacci heaps](https://playwithalgos.github.io/fibonacciheaps/)
 * [Gale-Shapley algorithm](https://playwithalgos.github.io/gale-shapley/public)
 * [kd-trees](https://playwithalgos.github.io/kdtrees/public)
+* [Decision tree learning](https://playwithalgos.github.io/decisiontreelearning/)
+* [KNN](https://playwithalgos.github.io/knn)
